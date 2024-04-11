@@ -1,0 +1,49 @@
+
+
+    {% extends "nav.html" %}
+
+    {% block profile %}
+
+    <div class = "container">
+        <div class = "card mt-5 shadow-lg border-0">
+            <div class = "card-header bg-primary text-white">
+                <h2 class="mt-5">My Profile</h2>
+            </div>
+            <div class = "card-body">
+                <div class = "row mt-3">
+                    <div class = "col-12 col-md-4">
+                        <label><strong>Username: </strong></label>
+                        <p class="user-info">{{username}}</p>
+                    </div>
+                    <div class = "col-12 col-md-4">
+                        <label><strong>Age: </strong></label>
+                        <p class="user-info">{{age}}</p>
+                    </div>
+                    <div class = "col-12 col-md-4">
+                        <label><strong>Email: </strong></label>
+                        <p class="user-info">{{email}}</p>
+                    </div>
+                </div>
+                <div class = "row mt-3">
+                    <div class = "col-12 col-md-4">
+                        <label><strong>UserInfo1: </strong></label>
+                        <p class="user-info">Data 1</p>
+                    </div>
+                    <div class = "col-12 col-md-4">
+                        <label><strong>UserInfo2: </strong></label>
+                        <p class="user-info">Data 2</p>
+                    </div>
+                    <div class = "col-12 col-md-4">
+                        <label><strong>UserInfo3 </strong></label>
+                        <p class="user-info">Data 3</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    {% endblock %}
+
+
+<!-- show 6 user info, retrieve data from database/session -->

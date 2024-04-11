@@ -1,0 +1,164 @@
+{% extends "nav.html" %}<!-- .navbar -->
+{% block index %}
+
+<body>
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url(../static/assets/img/slide/slide-1.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animated fadeInDown">XR</h2>
+              <p class="animated fadeInUp">Sample text</p>
+              <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url(../static/assets/img/slide/slide-2.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animated fadeInDown">XR2</h2>
+              <p class="animated fadeInUp">Sample text2.</p>
+              <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 3 -->
+        <div class="carousel-item" style="background-image: url(../static/assets/img/slide/slide-3.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animated fadeInDown">XR3</h2>
+              <p class="animated fadeInUp">Sample text3</p>
+              <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+      </a>
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container-fluid">
+
+        <div class="row justify-content-center">
+          <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
+            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4"></a>
+          </div>
+
+          <div class="col-xl-5 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3>About XR project</h3>
+            <p>With a focus on combating self-critical and negative thoughts, the program pioneers tangible experiences that foster positive impact.</p>
+              <button href="#about" class="btn btn-success animated fadeInUp w-50 mt-3">Get Started</button>
+
+
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container-fluid">
+
+        <div class="section-title">
+          <h2>Features</h2>
+          <h3>Check our <span>Features</span></h3>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-xl-10">
+            <div class="row">
+              <div class="col-lg-4 col-md-6 icon-box">
+                <div class="icon"><i class="ri-pie-chart-line"></i></div>
+                <h4 class="title"><a href="">VR applications</a></h4>
+                <p class="description">About VR feature</p>
+              </div>
+              <div class="col-lg-4 col-md-6 icon-box">
+                <div class="icon"><i class="ri-stack-line"></i></div>
+                <h4 class="title"><a href="">Data Science</a></h4>
+                <p class="description">About data science</p>
+              </div>
+              <div class="col-lg-4 col-md-6 icon-box">
+                <div class="icon"><i class="ri-markup-line"></i></div>
+                <h4 class="title"><a href="">Machine Learning and AI</a></h4>
+                <p class="description">About machine learning and AI</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="text-center">
+          <h3>Experience the VR-based consulting application.</h3>
+          <p> Window & Mac versions are available</p>
+          <a class="cta-btn" href="#">Download</a>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+
+
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact section-bg">
+      <div class="container-fluid">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <h3 class="color-black">Get In Touch With <span>Us</span></h3>
+          <p>To be updated.</p>
+        </div>
+
+  
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>XR</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+
+</body>
+
+
+    {% endblock %}

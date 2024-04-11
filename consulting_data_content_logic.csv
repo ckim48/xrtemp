@@ -1,0 +1,1001 @@
+username,age,gender,type_of_consulting,consulting_content,sentiment,the_consultant
+lisa00,39,Female,Financial,Tax optimization,0.63,Human
+daniel41,45,Other,Technology,Software development tips,0.46,Human
+frances41,23,Female,Business,Marketing strategies,0.92,Human
+fcarpenter,30,Other,Financial,Budgeting and saving,0.76,AI
+wolfbecky,35,Other,Lifestyle,Home organization hacks,0.24,AI
+davisheather,65,Female,Business,Leadership and management,0.06,AI
+christinerivera,52,Female,Business,Leadership and management,0.71,Human
+xlove,20,Male,Lifestyle,Home organization hacks,0.46,AI
+samuel35,34,Male,Business,Marketing strategies,0.16,AI
+charles60,34,Other,Health,Mental wellness,0.79,AI
+ryanmorales,68,Female,Business,Marketing strategies,0.94,Human
+davidwilliam,53,Other,Financial,Budgeting and saving,0.43,Human
+wthompson,51,Female,Lifestyle,Home organization hacks,0.91,Human
+michael59,53,Male,Personal,Career coaching,0.66,AI
+lisaanderson,54,Other,Technology,Cybersecurity best practices,0.29,Human
+john76,29,Male,Health,Chronic illness management,0.99,AI
+zjackson,39,Other,Lifestyle,Sustainable living tips,0.81,Human
+bbishop,31,Male,Personal,Career coaching,0.8,Human
+ocox,20,Other,Technology,Cybersecurity best practices,0.11,Human
+khorn,42,Other,Personal,Career coaching,0.3,AI
+margaretglass,29,Male,Technology,Software development tips,0.82,AI
+wheelerdean,26,Other,Health,Mental wellness,0.16,Human
+jonathanvaldez,50,Male,Financial,Tax optimization,0.3,Human
+ruizpam,60,Male,Financial,Budgeting and saving,0.14,Human
+mullinsdanielle,47,Female,Personal,Stress management techniques,0.77,Human
+belindaperry,45,Other,Lifestyle,Sustainable living tips,0.85,Human
+jhiggins,43,Other,Lifestyle,Sustainable living tips,0.45,AI
+jamesbarnes,30,Other,Technology,Software development tips,0.49,Human
+lewisbrian,44,Other,Personal,Career coaching,0.22,AI
+lori86,47,Female,Personal,Career coaching,0.37,AI
+cindycarroll,53,Female,Financial,Budgeting and saving,0.73,AI
+bweber,35,Female,Health,Exercise routines,0.71,AI
+wagnerjeffrey,48,Male,Health,Chronic illness management,0.86,AI
+deankatelyn,44,Male,Business,Leadership and management,0.63,AI
+sarahbutler,20,Male,Lifestyle,Personal development,0.98,Human
+kbrown,44,Male,Personal,Life goal planning,0.81,Human
+hansonnathan,44,Male,Health,Dietary advice,0.73,AI
+christinaking,20,Other,Personal,Life goal planning,0.28,AI
+samantha94,69,Other,Personal,Career coaching,0.76,Human
+audreygonzalez,37,Other,Health,Mental wellness,0.49,Human
+apeterson,56,Female,Personal,Stress management techniques,0.88,Human
+anthonykelley,67,Male,Health,Exercise routines,0.87,AI
+hparks,50,Other,Technology,Software development tips,0.07,Human
+mullinsjessica,61,Female,Personal,Career coaching,0.33,AI
+paul38,34,Male,Personal,Relationship advice,0.93,Human
+frankchurch,30,Male,Personal,Life goal planning,0.17,AI
+christopherking,60,Female,Personal,Career coaching,0.79,Human
+flynnrachel,37,Female,Technology,Software development tips,0.71,AI
+parkangela,68,Male,Financial,Tax optimization,0.87,AI
+xflores,19,Other,Technology,Emerging tech trends,0.86,AI
+joyschmidt,20,Male,Financial,Investment strategies,0.95,AI
+bjohnson,34,Female,Financial,Tax optimization,0.88,AI
+twu,47,Other,Health,Dietary advice,0.82,AI
+hedwards,49,Female,Financial,Budgeting and saving,0.01,Human
+briansnyder,37,Male,Health,Mental wellness,0.56,Human
+angela93,23,Male,Technology,Cybersecurity best practices,0.13,Human
+orobinson,28,Other,Technology,Gadget recommendations,0.43,Human
+elliottnathan,70,Male,Personal,Stress management techniques,0.3,AI
+qgross,67,Female,Health,Dietary advice,0.11,Human
+jessica47,49,Other,Health,Dietary advice,0.37,Human
+kimberlyarnold,33,Other,Financial,Investment strategies,0.86,AI
+whitekevin,60,Male,Business,Leadership and management,0.93,Human
+dwilliams,70,Female,Business,Leadership and management,0.62,AI
+brandypittman,28,Other,Financial,Retirement planning,0.1,Human
+rjones,28,Other,Financial,Investment strategies,0.11,Human
+tinahenry,53,Other,Financial,Retirement planning,0.65,Human
+kristineraymond,53,Female,Technology,Cybersecurity best practices,0.76,AI
+wuamy,64,Other,Lifestyle,Personal development,0.17,AI
+kharris,39,Female,Financial,Retirement planning,0.55,Human
+melissakidd,65,Other,Personal,Stress management techniques,0.91,Human
+vkeith,55,Other,Technology,Gadget recommendations,0.12,Human
+uhamilton,70,Female,Business,Starting a small business,0.91,Human
+prodriguez,70,Other,Business,Leadership and management,0.53,AI
+alexanderalyssa,49,Female,Lifestyle,Travel planning,0.67,AI
+dbullock,54,Female,Lifestyle,Sustainable living tips,0.92,Human
+goodmansherry,28,Female,Technology,Emerging tech trends,0.52,Human
+robertestes,68,Male,Lifestyle,Personal development,0.53,AI
+padillamark,59,Male,Health,Dietary advice,0.77,AI
+christinagardner,27,Male,Business,Marketing strategies,0.5,AI
+joelgarner,48,Other,Health,Dietary advice,0.85,AI
+sonyadeleon,42,Male,Lifestyle,Home organization hacks,0.91,Human
+brian64,58,Female,Health,Mental wellness,0.3,Human
+ojohnson,43,Male,Lifestyle,Home organization hacks,0.48,AI
+mallorymcpherson,19,Female,Personal,Life goal planning,0.92,Human
+owensmichael,36,Male,Health,Dietary advice,0.71,AI
+thompsonroberta,44,Male,Personal,Career coaching,0.4,AI
+tiffanyrichards,46,Other,Financial,Budgeting and saving,0.0,Human
+maria77,40,Other,Financial,Investment strategies,0.68,Human
+rbeltran,23,Other,Technology,Gadget recommendations,0.98,AI
+cynthia07,61,Other,Technology,Emerging tech trends,0.96,AI
+sfloyd,18,Male,Personal,Career coaching,0.02,AI
+mriley,49,Other,Business,Starting a small business,0.74,Human
+freemanjames,49,Other,Personal,Relationship advice,0.42,AI
+lisaflowers,28,Male,Personal,Relationship advice,0.54,AI
+kristenscott,32,Male,Personal,Life goal planning,0.94,Human
+fwalker,26,Male,Lifestyle,Personal development,0.2,AI
+angela36,58,Male,Technology,Cybersecurity best practices,0.44,Human
+tina76,57,Male,Personal,Stress management techniques,0.73,Human
+antonio01,46,Female,Lifestyle,Personal development,0.81,Human
+jordan07,34,Female,Financial,Tax optimization,0.93,AI
+mwhite,26,Female,Personal,Relationship advice,0.58,AI
+mollysmith,22,Male,Personal,Life goal planning,0.4,AI
+abigail23,51,Male,Lifestyle,Sustainable living tips,0.93,Human
+whitebradley,20,Male,Business,Starting a small business,0.94,Human
+jordan89,56,Male,Technology,Software development tips,0.01,Human
+xsmith,48,Female,Financial,Retirement planning,0.39,Human
+richardtucker,61,Other,Lifestyle,Sustainable living tips,0.95,Human
+ywilliams,44,Male,Lifestyle,Personal development,0.89,Human
+josephfox,26,Female,Technology,Emerging tech trends,0.05,Human
+danielricardo,31,Female,Financial,Budgeting and saving,0.24,Human
+druiz,21,Other,Personal,Stress management techniques,0.84,Human
+contrerasdawn,68,Male,Personal,Relationship advice,0.11,AI
+kennethreese,36,Other,Business,Productivity tools,0.63,AI
+lpatterson,52,Female,Lifestyle,Travel planning,0.05,AI
+jacquelinewilliams,67,Other,Business,Leadership and management,0.65,AI
+blove,52,Male,Health,Dietary advice,0.93,AI
+dwood,47,Female,Health,Dietary advice,0.38,Human
+proctorjessica,50,Male,Lifestyle,Personal development,0.16,AI
+ernestrivera,36,Female,Health,Dietary advice,0.71,AI
+laurie21,20,Other,Technology,Cybersecurity best practices,0.44,Human
+michael05,36,Other,Business,Starting a small business,0.95,Human
+ahopkins,57,Male,Financial,Retirement planning,0.8,AI
+colemelissa,67,Female,Personal,Relationship advice,0.97,Human
+edwardfriedman,46,Other,Personal,Relationship advice,0.74,Human
+stephanie64,35,Other,Technology,Software development tips,0.37,Human
+itucker,56,Other,Business,Productivity tools,0.3,AI
+jonathan59,25,Other,Business,Marketing strategies,0.03,AI
+thomasharris,38,Other,Health,Dietary advice,0.23,Human
+ufreeman,52,Male,Health,Exercise routines,0.05,Human
+patricklewis,27,Female,Health,Chronic illness management,0.87,AI
+frankcheryl,50,Other,Personal,Relationship advice,0.96,Human
+aperry,40,Female,Lifestyle,Sustainable living tips,0.42,AI
+lharris,32,Female,Lifestyle,Travel planning,0.1,AI
+ryan82,61,Male,Business,Leadership and management,0.23,AI
+jasmine47,53,Other,Business,Leadership and management,0.79,Human
+claudiapeterson,22,Other,Lifestyle,Personal development,0.4,AI
+gfranklin,29,Female,Health,Mental wellness,0.21,Human
+william61,45,Male,Lifestyle,Home organization hacks,0.77,Human
+mark36,63,Female,Business,Marketing strategies,0.66,AI
+cjordan,41,Male,Business,Productivity tools,0.17,AI
+sara95,38,Female,Financial,Budgeting and saving,0.81,AI
+bradshawjames,59,Other,Health,Chronic illness management,0.86,AI
+pamelapatel,37,Other,Lifestyle,Sustainable living tips,0.83,Human
+nancy90,19,Female,Health,Chronic illness management,0.97,AI
+michaelmorrison,18,Female,Personal,Relationship advice,0.87,Human
+jonathonshaw,41,Male,Technology,Gadget recommendations,0.74,AI
+kgrant,55,Female,Technology,Cybersecurity best practices,0.43,Human
+lgordon,58,Other,Business,Leadership and management,0.91,Human
+travis76,67,Other,Financial,Retirement planning,0.76,AI
+john88,41,Male,Lifestyle,Personal development,0.16,AI
+emilyschmitt,56,Other,Financial,Investment strategies,0.71,AI
+jessica01,48,Other,Lifestyle,Personal development,0.35,AI
+psantana,33,Female,Personal,Career coaching,0.81,Human
+vincent15,21,Male,Business,Productivity tools,0.75,Human
+drewmoss,68,Male,Personal,Life goal planning,0.25,AI
+ypowell,69,Male,Lifestyle,Personal development,0.04,AI
+olester,29,Female,Technology,Gadget recommendations,0.8,AI
+carla43,67,Male,Technology,Software development tips,0.8,AI
+pearsonjames,43,Female,Personal,Life goal planning,0.24,AI
+jjordan,46,Other,Financial,Tax optimization,0.95,AI
+brendadunn,65,Female,Business,Marketing strategies,0.99,Human
+ovargas,18,Other,Health,Exercise routines,0.59,Human
+higginsmackenzie,52,Other,Lifestyle,Home organization hacks,0.81,Human
+alyssawilliams,56,Female,Technology,Cybersecurity best practices,0.18,Human
+harold30,70,Other,Technology,Cybersecurity best practices,0.93,AI
+ryan68,68,Other,Personal,Life goal planning,0.97,Human
+jennifer47,47,Male,Business,Starting a small business,0.55,AI
+stevencrawford,48,Other,Health,Exercise routines,0.45,Human
+jamesmendoza,24,Female,Technology,Gadget recommendations,0.65,Human
+desiree56,27,Other,Business,Leadership and management,0.95,Human
+nguyencynthia,64,Other,Health,Chronic illness management,0.14,Human
+mistyglenn,69,Male,Financial,Tax optimization,0.58,Human
+qhale,62,Male,Technology,Gadget recommendations,0.32,Human
+jose62,54,Other,Business,Leadership and management,0.13,AI
+patrick97,49,Male,Lifestyle,Sustainable living tips,0.92,Human
+moorezachary,20,Female,Lifestyle,Sustainable living tips,0.16,AI
+jacobklein,55,Other,Health,Mental wellness,0.66,Human
+johnsonjeffrey,54,Male,Financial,Tax optimization,0.77,AI
+lholland,39,Other,Lifestyle,Sustainable living tips,0.94,Human
+owilson,68,Male,Business,Marketing strategies,0.81,Human
+wendycarson,48,Other,Lifestyle,Home organization hacks,0.96,Human
+krobertson,29,Other,Health,Mental wellness,0.98,AI
+rnelson,30,Female,Financial,Investment strategies,0.19,Human
+gabriel85,52,Other,Business,Marketing strategies,0.71,Human
+kcontreras,35,Female,Health,Exercise routines,0.88,AI
+wroth,20,Male,Health,Chronic illness management,0.36,Human
+christy45,21,Male,Personal,Stress management techniques,0.34,AI
+jonathonmichael,23,Male,Lifestyle,Sustainable living tips,0.05,AI
+vfrancis,64,Male,Financial,Investment strategies,0.76,AI
+morrisonalicia,18,Male,Health,Dietary advice,0.97,AI
+lcampbell,49,Other,Lifestyle,Personal development,0.82,Human
+jfrancis,55,Male,Personal,Life goal planning,0.32,AI
+shawnacolon,45,Female,Lifestyle,Personal development,0.79,Human
+uterry,70,Male,Lifestyle,Travel planning,0.73,Human
+suzannebrooks,58,Female,Financial,Tax optimization,0.89,AI
+wesley60,48,Other,Financial,Investment strategies,0.85,AI
+stephen89,50,Other,Business,Leadership and management,0.19,AI
+carpentersusan,21,Male,Financial,Investment strategies,0.71,AI
+odonnellchelsea,36,Female,Business,Productivity tools,0.2,AI
+seth46,50,Other,Technology,Software development tips,0.84,AI
+ybartlett,39,Female,Financial,Budgeting and saving,0.51,Human
+jenningsashley,33,Male,Lifestyle,Home organization hacks,0.45,AI
+dwalker,30,Male,Financial,Retirement planning,0.23,Human
+sheltonrobert,42,Female,Technology,Gadget recommendations,0.03,Human
+ilynch,68,Female,Lifestyle,Home organization hacks,0.28,AI
+kcabrera,52,Male,Health,Chronic illness management,0.8,AI
+mestes,38,Male,Lifestyle,Sustainable living tips,0.54,AI
+cherylbrown,65,Other,Health,Exercise routines,0.97,AI
+shannonpeterson,28,Other,Technology,Gadget recommendations,0.0,Human
+walter40,56,Male,Lifestyle,Travel planning,0.9,Human
+michele54,64,Male,Health,Mental wellness,0.43,Human
+geraldsimmons,63,Female,Technology,Software development tips,0.75,AI
+alyssasmith,22,Male,Financial,Tax optimization,0.3,Human
+wisegina,61,Other,Financial,Retirement planning,0.37,Human
+colleenjimenez,38,Other,Health,Dietary advice,0.86,AI
+heather45,37,Female,Personal,Stress management techniques,0.8,Human
+william35,26,Male,Technology,Gadget recommendations,0.58,Human
+ile,54,Female,Technology,Emerging tech trends,0.89,AI
+jennifer87,44,Female,Technology,Cybersecurity best practices,1.0,AI
+josephthompson,33,Male,Technology,Software development tips,0.14,Human
+rachel79,32,Other,Health,Mental wellness,0.89,AI
+ashley88,67,Male,Personal,Life goal planning,0.98,Human
+ocase,64,Male,Business,Starting a small business,0.74,Human
+deborah69,42,Male,Financial,Budgeting and saving,0.76,AI
+jaynelson,36,Other,Personal,Stress management techniques,0.76,Human
+mlang,48,Male,Business,Productivity tools,0.67,AI
+riosmelanie,53,Male,Technology,Software development tips,0.28,Human
+ymoore,61,Other,Lifestyle,Personal development,0.72,Human
+selena93,44,Female,Business,Leadership and management,0.04,AI
+johnwilliams,43,Male,Business,Marketing strategies,0.54,AI
+kathleen65,37,Other,Personal,Life goal planning,0.06,AI
+mosleynatasha,28,Other,Financial,Tax optimization,0.04,Human
+jmeadows,60,Other,Business,Marketing strategies,0.3,AI
+johnlogan,18,Male,Personal,Stress management techniques,0.04,AI
+contrerastiffany,25,Other,Financial,Tax optimization,0.88,AI
+jstephens,57,Other,Lifestyle,Sustainable living tips,0.79,Human
+fgardner,39,Female,Financial,Tax optimization,0.62,Human
+banksashley,63,Other,Business,Starting a small business,0.84,Human
+webbdiana,23,Male,Financial,Budgeting and saving,0.88,AI
+meagan97,67,Female,Technology,Cybersecurity best practices,0.51,Human
+kevin65,18,Other,Business,Starting a small business,0.95,Human
+ashley69,28,Other,Financial,Budgeting and saving,0.01,Human
+dickersonrobert,29,Male,Technology,Gadget recommendations,0.29,Human
+emilymanning,23,Male,Lifestyle,Home organization hacks,0.04,AI
+ohahn,69,Other,Health,Exercise routines,0.9,AI
+wthompson,39,Female,Business,Leadership and management,0.92,Human
+mary07,66,Female,Business,Productivity tools,0.85,Human
+haleydaniel,69,Male,Personal,Relationship advice,0.08,AI
+wendy19,70,Male,Financial,Budgeting and saving,0.95,AI
+dominique53,55,Male,Financial,Tax optimization,0.06,Human
+wbrowning,33,Other,Personal,Relationship advice,0.88,Human
+raymondwatson,53,Male,Lifestyle,Personal development,0.72,Human
+myerscarlos,18,Other,Business,Marketing strategies,0.18,AI
+debraryan,23,Male,Lifestyle,Sustainable living tips,0.83,Human
+zhughes,56,Male,Health,Chronic illness management,0.61,Human
+matthew55,49,Male,Financial,Tax optimization,0.65,Human
+josephgrant,68,Male,Personal,Stress management techniques,0.73,Human
+montgomerydebbie,70,Female,Technology,Cybersecurity best practices,0.93,AI
+jrobbins,58,Other,Technology,Cybersecurity best practices,0.47,Human
+masseyjill,26,Male,Business,Marketing strategies,0.7,Human
+brandonmartinez,56,Female,Technology,Emerging tech trends,0.77,AI
+sarah58,43,Other,Technology,Gadget recommendations,0.73,AI
+collinsnicole,37,Male,Financial,Budgeting and saving,0.64,Human
+connie08,47,Other,Business,Productivity tools,0.1,AI
+chavezolivia,22,Female,Business,Productivity tools,0.42,AI
+robinsonjustin,58,Other,Business,Marketing strategies,0.14,AI
+anita72,42,Female,Lifestyle,Personal development,0.34,AI
+joshuawalsh,40,Other,Business,Productivity tools,0.56,AI
+juliaharper,36,Male,Technology,Cybersecurity best practices,0.91,AI
+jhenderson,35,Male,Technology,Gadget recommendations,0.39,Human
+clarkalice,57,Male,Personal,Career coaching,0.75,Human
+xhodge,41,Male,Health,Mental wellness,0.67,Human
+jacobsstephanie,38,Other,Personal,Stress management techniques,0.01,AI
+dawnstephenson,59,Male,Technology,Gadget recommendations,0.79,AI
+csimpson,65,Female,Financial,Retirement planning,0.89,AI
+dlane,26,Male,Financial,Tax optimization,0.7,AI
+jenna29,42,Other,Lifestyle,Home organization hacks,0.79,Human
+zsmith,35,Other,Health,Dietary advice,0.74,AI
+wisekevin,45,Female,Lifestyle,Home organization hacks,1.0,Human
+byrdivan,55,Male,Business,Marketing strategies,0.84,Human
+mirandaalvin,31,Male,Personal,Life goal planning,0.73,Human
+samanthavelasquez,48,Male,Lifestyle,Sustainable living tips,0.82,Human
+crystal89,55,Female,Technology,Cybersecurity best practices,0.62,Human
+andrew04,64,Other,Technology,Emerging tech trends,0.4,Human
+steven55,61,Female,Lifestyle,Travel planning,0.11,AI
+nathan55,44,Female,Health,Chronic illness management,0.47,Human
+timothy11,24,Female,Business,Productivity tools,0.14,AI
+alice58,62,Other,Personal,Life goal planning,0.13,AI
+michelle64,58,Other,Business,Productivity tools,0.87,Human
+choilinda,30,Female,Health,Mental wellness,0.79,AI
+malvarado,44,Male,Health,Exercise routines,0.75,AI
+jessicafisher,33,Female,Lifestyle,Personal development,0.53,AI
+pgonzalez,44,Female,Lifestyle,Personal development,0.1,AI
+harriselizabeth,38,Female,Lifestyle,Sustainable living tips,0.86,Human
+scottadams,47,Other,Business,Productivity tools,0.71,Human
+williamsonshawn,61,Female,Financial,Investment strategies,0.15,Human
+reginald54,70,Other,Business,Leadership and management,0.42,AI
+ehernandez,22,Other,Technology,Emerging tech trends,1.0,AI
+barbara19,20,Other,Technology,Gadget recommendations,0.77,AI
+maria54,19,Female,Health,Chronic illness management,0.36,Human
+justinyoung,63,Other,Health,Mental wellness,0.27,Human
+rrogers,64,Male,Personal,Relationship advice,0.59,AI
+xharvey,55,Other,Business,Starting a small business,0.95,Human
+michelle30,64,Other,Business,Productivity tools,0.98,Human
+kevin32,32,Female,Personal,Relationship advice,0.78,Human
+andrewgriffith,45,Male,Personal,Career coaching,0.83,Human
+millerpatrick,37,Other,Health,Exercise routines,0.42,Human
+williamzuniga,47,Other,Business,Starting a small business,0.11,AI
+orodriguez,36,Male,Health,Chronic illness management,0.14,Human
+bryanaguirre,60,Male,Lifestyle,Travel planning,0.8,Human
+oscarsmith,19,Female,Lifestyle,Travel planning,0.61,AI
+myersmatthew,64,Female,Lifestyle,Travel planning,0.53,AI
+kirkbonnie,31,Male,Personal,Relationship advice,0.73,Human
+hjuarez,19,Male,Technology,Gadget recommendations,0.27,Human
+erinellis,59,Female,Health,Exercise routines,0.38,Human
+martinezmichelle,37,Female,Lifestyle,Sustainable living tips,0.81,Human
+nathan26,49,Other,Health,Chronic illness management,0.98,AI
+joe67,35,Other,Financial,Tax optimization,0.01,Human
+porterkevin,40,Other,Technology,Cybersecurity best practices,0.06,Human
+aarondennis,26,Female,Business,Productivity tools,0.75,Human
+jparker,47,Male,Health,Chronic illness management,0.01,Human
+reedjustin,29,Other,Business,Starting a small business,0.12,AI
+hannahwalker,69,Female,Personal,Stress management techniques,0.73,Human
+carlos90,65,Male,Business,Starting a small business,0.12,AI
+justin14,45,Male,Lifestyle,Travel planning,0.04,AI
+jennifergalloway,57,Other,Lifestyle,Home organization hacks,0.21,AI
+ashleyhanson,28,Male,Health,Exercise routines,0.84,AI
+michael59,54,Other,Health,Exercise routines,0.22,Human
+jeffrey15,55,Male,Lifestyle,Home organization hacks,0.67,AI
+christopheryoung,57,Other,Health,Chronic illness management,0.85,AI
+catherine61,19,Female,Financial,Investment strategies,0.16,Human
+zbautista,39,Female,Financial,Retirement planning,0.84,AI
+sean71,68,Other,Personal,Life goal planning,0.28,AI
+justin30,53,Other,Lifestyle,Personal development,0.29,AI
+jennifersmith,54,Other,Financial,Tax optimization,0.5,Human
+daniel17,36,Female,Business,Productivity tools,0.78,Human
+dominguezkatie,41,Female,Lifestyle,Home organization hacks,0.51,AI
+morristhomas,57,Female,Health,Chronic illness management,0.41,Human
+alee,40,Female,Personal,Life goal planning,0.63,AI
+john13,19,Male,Financial,Budgeting and saving,0.9,AI
+kristen47,60,Female,Business,Starting a small business,0.14,AI
+adammullen,68,Male,Business,Marketing strategies,0.76,Human
+michael32,37,Male,Lifestyle,Personal development,0.87,Human
+millschristine,53,Other,Technology,Emerging tech trends,0.57,Human
+daviddoyle,64,Other,Technology,Gadget recommendations,0.42,Human
+matthewcollins,31,Other,Technology,Software development tips,0.78,AI
+daniellehernandez,30,Other,Technology,Software development tips,0.97,AI
+gwendolyn53,46,Female,Personal,Life goal planning,0.58,AI
+bondmegan,30,Female,Business,Leadership and management,0.51,AI
+nboyd,18,Other,Lifestyle,Personal development,0.88,Human
+davisgregory,27,Female,Lifestyle,Home organization hacks,0.22,AI
+thomashansen,26,Other,Health,Dietary advice,0.98,AI
+jennifer18,26,Other,Business,Starting a small business,0.46,AI
+boltoncatherine,37,Male,Personal,Relationship advice,0.57,AI
+tommy94,18,Female,Lifestyle,Travel planning,0.6,AI
+christina61,54,Male,Personal,Life goal planning,0.79,Human
+steelejason,35,Female,Health,Chronic illness management,0.29,Human
+yvonne52,57,Other,Health,Exercise routines,0.26,Human
+christiemurphy,31,Other,Financial,Budgeting and saving,0.95,AI
+austinlowe,24,Other,Business,Marketing strategies,0.37,AI
+sarahhernandez,27,Other,Health,Exercise routines,0.37,Human
+rogersnatalie,30,Female,Health,Mental wellness,0.94,AI
+bking,60,Female,Health,Exercise routines,0.31,Human
+fevans,29,Female,Lifestyle,Personal development,0.51,AI
+madison44,25,Male,Financial,Retirement planning,0.94,AI
+william91,38,Female,Personal,Relationship advice,0.9,Human
+joshuacollins,19,Other,Personal,Career coaching,0.95,Human
+lesliezamora,19,Female,Lifestyle,Personal development,0.05,AI
+robert80,45,Female,Business,Marketing strategies,0.19,AI
+pjones,70,Male,Business,Leadership and management,0.85,Human
+boothgabriella,68,Male,Lifestyle,Travel planning,0.42,AI
+jonathan66,60,Other,Personal,Career coaching,0.6,AI
+faguilar,32,Other,Lifestyle,Travel planning,0.88,Human
+davidmoon,19,Male,Technology,Emerging tech trends,0.75,AI
+brandon90,37,Other,Financial,Tax optimization,0.48,Human
+toddjulie,19,Male,Health,Chronic illness management,0.9,AI
+mark27,42,Other,Lifestyle,Home organization hacks,0.87,Human
+ckey,62,Female,Technology,Gadget recommendations,0.65,Human
+elizabeth94,69,Other,Personal,Stress management techniques,0.8,Human
+summersgarrett,48,Male,Health,Dietary advice,0.98,AI
+joshuarodriguez,36,Other,Personal,Life goal planning,0.19,AI
+portermarie,46,Female,Technology,Cybersecurity best practices,0.35,Human
+kayla10,70,Other,Technology,Gadget recommendations,0.81,AI
+myersfernando,22,Male,Personal,Relationship advice,0.39,AI
+eklein,30,Female,Technology,Cybersecurity best practices,0.41,Human
+ipope,68,Female,Business,Starting a small business,0.38,AI
+omooney,49,Other,Business,Leadership and management,0.68,AI
+nbrown,70,Other,Technology,Gadget recommendations,0.47,Human
+alexishoward,50,Other,Business,Marketing strategies,0.43,AI
+jenniferfowler,26,Other,Lifestyle,Personal development,0.64,AI
+gregory11,18,Female,Personal,Life goal planning,0.85,Human
+amurphy,19,Female,Technology,Gadget recommendations,0.98,AI
+wendywilliams,38,Other,Lifestyle,Personal development,0.71,Human
+kennetharmstrong,39,Female,Lifestyle,Sustainable living tips,0.12,AI
+jonesjennifer,35,Other,Personal,Career coaching,0.56,AI
+pmartin,41,Male,Business,Leadership and management,0.93,Human
+ikennedy,66,Other,Personal,Career coaching,0.19,AI
+carolyn97,27,Male,Health,Exercise routines,0.83,AI
+kelsey43,46,Male,Personal,Life goal planning,0.83,Human
+jason60,31,Male,Technology,Cybersecurity best practices,0.39,Human
+timothylynn,45,Other,Technology,Gadget recommendations,0.13,Human
+ian01,69,Male,Technology,Cybersecurity best practices,0.99,AI
+ncalderon,20,Other,Business,Leadership and management,0.22,AI
+jorgeburns,24,Other,Lifestyle,Travel planning,0.07,AI
+johnwilliams,21,Female,Personal,Relationship advice,0.63,AI
+brockalicia,39,Other,Technology,Cybersecurity best practices,0.25,Human
+richard10,23,Male,Health,Chronic illness management,0.76,AI
+sarahanthony,22,Female,Technology,Gadget recommendations,0.54,Human
+williamskevin,23,Female,Personal,Stress management techniques,0.19,AI
+fboyd,61,Other,Technology,Gadget recommendations,0.89,AI
+lincathy,48,Female,Financial,Tax optimization,0.95,AI
+zacharybrown,45,Female,Financial,Investment strategies,0.92,AI
+alexander38,33,Other,Personal,Relationship advice,0.83,Human
+snyderchristy,24,Male,Lifestyle,Travel planning,0.79,Human
+danielwalker,58,Other,Lifestyle,Home organization hacks,0.81,Human
+haletroy,18,Female,Financial,Tax optimization,0.6,Human
+benjaminsmith,62,Male,Lifestyle,Personal development,0.71,Human
+michellegarrett,40,Other,Personal,Career coaching,0.84,Human
+johnhill,25,Female,Personal,Relationship advice,0.93,Human
+rodriguezsydney,52,Female,Personal,Career coaching,0.85,Human
+andreahenderson,27,Other,Technology,Software development tips,0.39,Human
+powellkayla,62,Female,Personal,Career coaching,0.41,AI
+dana26,25,Female,Lifestyle,Sustainable living tips,0.39,AI
+francisandrew,22,Other,Health,Chronic illness management,0.7,AI
+mendozakeith,43,Male,Business,Marketing strategies,0.93,Human
+tcohen,53,Other,Lifestyle,Sustainable living tips,0.81,Human
+jimmy86,48,Male,Technology,Cybersecurity best practices,0.96,AI
+pcoleman,62,Male,Lifestyle,Personal development,0.46,AI
+devinadams,59,Male,Health,Dietary advice,0.56,Human
+larsenchristopher,27,Female,Health,Chronic illness management,0.26,Human
+ana52,47,Female,Lifestyle,Travel planning,0.51,AI
+hrivera,21,Female,Lifestyle,Personal development,0.86,Human
+thompsonjohn,35,Male,Business,Starting a small business,0.93,Human
+amy06,36,Female,Personal,Life goal planning,0.92,Human
+kimberlyrodriguez,34,Female,Personal,Stress management techniques,0.98,Human
+danielbrown,31,Female,Technology,Gadget recommendations,0.76,AI
+torresallison,40,Other,Technology,Software development tips,0.91,AI
+richard70,40,Female,Health,Dietary advice,0.78,AI
+john18,62,Other,Technology,Gadget recommendations,0.15,Human
+elizabeth45,19,Other,Health,Chronic illness management,0.91,AI
+joseph22,27,Other,Financial,Tax optimization,0.36,Human
+meganpalmer,61,Male,Business,Starting a small business,0.75,Human
+tamara11,47,Female,Personal,Relationship advice,0.98,Human
+davidjennifer,62,Female,Health,Chronic illness management,0.4,Human
+apierce,18,Other,Technology,Software development tips,0.63,Human
+aadams,48,Male,Lifestyle,Personal development,0.39,AI
+hardychristian,28,Female,Financial,Retirement planning,0.78,AI
+eleon,46,Female,Personal,Stress management techniques,0.34,AI
+ethan82,68,Female,Health,Exercise routines,0.25,Human
+branchfrank,47,Other,Technology,Emerging tech trends,0.71,AI
+hschwartz,62,Other,Health,Dietary advice,0.14,Human
+brosario,59,Male,Personal,Stress management techniques,0.99,Human
+sjordan,41,Female,Business,Marketing strategies,0.72,Human
+robert33,18,Other,Business,Leadership and management,0.21,AI
+derekfitzgerald,18,Female,Financial,Retirement planning,0.16,Human
+santossonya,47,Other,Business,Starting a small business,0.46,AI
+hurleyalyssa,29,Other,Personal,Career coaching,0.12,AI
+lauralester,57,Other,Technology,Gadget recommendations,0.85,AI
+mcgrathdavid,33,Female,Lifestyle,Personal development,0.36,AI
+rivasrobin,26,Female,Technology,Emerging tech trends,0.66,Human
+gregoryanderson,34,Other,Lifestyle,Home organization hacks,0.29,AI
+krausedanielle,20,Male,Business,Productivity tools,0.76,Human
+garciaann,45,Female,Personal,Career coaching,0.03,AI
+hwilliams,35,Female,Financial,Tax optimization,0.76,AI
+wdavis,39,Male,Health,Mental wellness,0.55,Human
+brendaking,44,Other,Business,Marketing strategies,0.24,AI
+zgraham,65,Other,Technology,Cybersecurity best practices,0.75,AI
+margaretanderson,31,Other,Financial,Budgeting and saving,0.02,Human
+michaelware,41,Male,Technology,Cybersecurity best practices,0.68,Human
+sarah89,30,Female,Financial,Budgeting and saving,0.98,AI
+lindawilliams,49,Male,Technology,Emerging tech trends,0.94,AI
+laurensmith,30,Female,Financial,Tax optimization,0.46,Human
+maryrussell,30,Female,Health,Mental wellness,0.98,AI
+michaelespinoza,57,Male,Financial,Budgeting and saving,0.09,Human
+rgould,60,Male,Business,Starting a small business,0.97,Human
+bdaniel,33,Male,Technology,Software development tips,0.06,Human
+thomasmayo,49,Female,Business,Marketing strategies,0.92,Human
+tsnyder,38,Male,Business,Productivity tools,0.78,Human
+michaelmedina,56,Female,Technology,Software development tips,0.93,AI
+vazquezmark,57,Other,Personal,Life goal planning,0.44,AI
+pamelalevy,20,Male,Technology,Software development tips,0.95,AI
+rmelendez,66,Other,Personal,Career coaching,0.05,AI
+nelsonallison,54,Male,Technology,Gadget recommendations,0.83,AI
+haneyjesus,66,Male,Lifestyle,Personal development,0.46,AI
+victoria27,46,Female,Lifestyle,Personal development,0.18,AI
+rebecca43,21,Female,Lifestyle,Sustainable living tips,0.89,Human
+john31,64,Male,Personal,Career coaching,0.82,Human
+whaas,44,Female,Lifestyle,Home organization hacks,0.74,Human
+xcurry,68,Male,Lifestyle,Home organization hacks,0.7,Human
+brittanymullins,52,Other,Financial,Budgeting and saving,0.2,Human
+wlittle,41,Other,Business,Starting a small business,0.58,AI
+dunlappamela,23,Male,Health,Exercise routines,0.89,AI
+cpeterson,42,Male,Personal,Life goal planning,0.84,Human
+lbryant,59,Male,Lifestyle,Travel planning,0.99,Human
+gwalsh,38,Male,Health,Dietary advice,0.91,AI
+brianguerrero,38,Other,Health,Dietary advice,0.06,Human
+lindsaygay,69,Male,Technology,Cybersecurity best practices,0.84,AI
+bchapman,62,Other,Financial,Investment strategies,0.79,AI
+michellechapman,53,Female,Personal,Stress management techniques,0.07,AI
+ahill,44,Other,Personal,Relationship advice,0.91,Human
+arnoldlaura,23,Other,Technology,Emerging tech trends,0.46,Human
+josephmendoza,19,Male,Technology,Emerging tech trends,0.76,AI
+cmartin,56,Other,Health,Dietary advice,0.25,Human
+kevincarlson,45,Female,Lifestyle,Travel planning,0.79,Human
+stacey82,32,Male,Personal,Stress management techniques,0.61,AI
+cameronmendoza,41,Female,Health,Dietary advice,0.04,Human
+jasonjones,68,Other,Technology,Software development tips,0.68,Human
+joansmith,51,Other,Technology,Gadget recommendations,0.0,Human
+terrellmichael,49,Other,Personal,Stress management techniques,0.81,Human
+joseph93,56,Male,Health,Chronic illness management,0.3,Human
+ashley21,19,Other,Technology,Cybersecurity best practices,0.76,AI
+campbelllinda,37,Male,Personal,Relationship advice,0.13,AI
+michaelhess,49,Other,Financial,Investment strategies,0.58,Human
+hodgechris,18,Other,Health,Dietary advice,0.93,AI
+donnawise,32,Female,Lifestyle,Home organization hacks,0.87,Human
+baileyjuan,39,Male,Personal,Relationship advice,0.84,Human
+halesherry,46,Other,Lifestyle,Personal development,0.08,AI
+rebeccamarshall,50,Female,Lifestyle,Travel planning,0.78,Human
+sarahwhite,25,Female,Financial,Budgeting and saving,0.72,AI
+iharding,69,Other,Personal,Life goal planning,0.36,AI
+brianmorris,69,Male,Technology,Emerging tech trends,0.69,Human
+veronicagonzales,42,Female,Technology,Software development tips,0.45,Human
+jared60,67,Other,Health,Mental wellness,0.85,AI
+terry09,50,Female,Business,Starting a small business,0.88,Human
+xdunn,60,Other,Business,Starting a small business,0.74,Human
+mannlori,40,Other,Financial,Tax optimization,0.92,AI
+amy46,19,Male,Business,Leadership and management,0.17,AI
+xkane,33,Male,Business,Productivity tools,0.98,Human
+rhuynh,41,Female,Financial,Investment strategies,0.32,Human
+brownzachary,58,Other,Personal,Relationship advice,0.91,Human
+staceyjackson,56,Female,Personal,Stress management techniques,0.79,Human
+jasonsimpson,69,Male,Financial,Tax optimization,0.12,Human
+andrewnielsen,38,Other,Business,Productivity tools,0.88,Human
+lynchaaron,41,Female,Health,Exercise routines,0.96,AI
+montgomerymary,57,Female,Financial,Retirement planning,0.15,Human
+eking,60,Female,Business,Leadership and management,0.83,Human
+joshuaholt,70,Female,Health,Exercise routines,0.46,Human
+diane78,62,Female,Financial,Investment strategies,0.8,AI
+jennifermckee,58,Male,Business,Leadership and management,0.76,Human
+tsmith,21,Male,Business,Leadership and management,0.83,Human
+whitejulian,56,Other,Technology,Gadget recommendations,0.68,Human
+jamesshort,38,Other,Financial,Retirement planning,0.95,AI
+fsilva,63,Female,Business,Leadership and management,0.38,AI
+michaelsmith,38,Female,Lifestyle,Home organization hacks,0.52,AI
+brittanymartin,37,Male,Personal,Career coaching,0.89,Human
+edward77,46,Female,Lifestyle,Travel planning,0.97,Human
+amymonroe,27,Female,Personal,Life goal planning,0.95,Human
+stewartsharon,58,Other,Business,Leadership and management,0.29,AI
+ubray,41,Male,Lifestyle,Personal development,0.15,AI
+stephanie87,31,Male,Financial,Tax optimization,0.72,AI
+johnharrison,50,Other,Lifestyle,Home organization hacks,0.06,AI
+chad47,52,Other,Technology,Emerging tech trends,0.93,AI
+hannahpeters,20,Male,Business,Marketing strategies,0.72,Human
+jack60,59,Male,Financial,Tax optimization,0.49,Human
+scottcole,57,Female,Personal,Stress management techniques,0.68,AI
+ismith,56,Female,Personal,Career coaching,0.05,AI
+ashley51,65,Other,Personal,Career coaching,0.84,Human
+rebecca60,38,Male,Technology,Gadget recommendations,0.68,Human
+toddrose,66,Other,Health,Exercise routines,0.84,AI
+higginsmichael,18,Female,Personal,Career coaching,0.87,Human
+donna48,61,Other,Technology,Cybersecurity best practices,0.7,AI
+zmoore,39,Female,Financial,Retirement planning,0.32,Human
+richardslaura,62,Other,Lifestyle,Home organization hacks,0.02,AI
+jharding,56,Female,Personal,Relationship advice,0.65,AI
+cindy25,65,Male,Health,Mental wellness,0.86,AI
+barbararobinson,40,Male,Technology,Gadget recommendations,0.07,Human
+megancarlson,22,Male,Technology,Cybersecurity best practices,0.33,Human
+jonathan45,47,Other,Health,Chronic illness management,0.5,Human
+cnunez,20,Female,Financial,Retirement planning,0.29,Human
+bradley85,44,Other,Lifestyle,Home organization hacks,0.55,AI
+nicolemorris,46,Male,Financial,Investment strategies,0.05,Human
+kristajackson,33,Male,Health,Mental wellness,0.01,Human
+juanrodriguez,40,Male,Business,Productivity tools,0.42,AI
+robinsonjose,67,Male,Business,Productivity tools,0.08,AI
+isaacherrera,45,Male,Lifestyle,Personal development,0.95,Human
+lisa99,53,Other,Business,Productivity tools,0.98,Human
+lauramullins,46,Other,Health,Dietary advice,0.79,AI
+bvillegas,31,Other,Personal,Life goal planning,0.11,AI
+gonzalezlaura,46,Female,Lifestyle,Travel planning,0.97,Human
+rodriguezdavid,34,Female,Financial,Budgeting and saving,0.88,AI
+juan67,64,Male,Technology,Gadget recommendations,0.38,Human
+douglas15,31,Female,Lifestyle,Travel planning,0.54,AI
+karikrueger,43,Male,Technology,Software development tips,0.83,AI
+alvarezcynthia,51,Male,Health,Chronic illness management,0.8,AI
+wknox,54,Other,Lifestyle,Personal development,0.07,AI
+gmoore,33,Male,Technology,Emerging tech trends,0.77,AI
+jose06,51,Male,Health,Dietary advice,0.09,Human
+hendersonkrystal,32,Female,Personal,Career coaching,0.74,Human
+julianjohnson,33,Female,Technology,Emerging tech trends,0.05,Human
+browntimothy,22,Male,Health,Chronic illness management,0.11,Human
+joshua38,32,Female,Lifestyle,Sustainable living tips,0.77,Human
+joneswilliam,37,Other,Health,Mental wellness,0.74,AI
+thompsonchristina,44,Female,Lifestyle,Home organization hacks,0.55,AI
+ian40,58,Other,Technology,Emerging tech trends,0.62,Human
+jonathan98,51,Male,Health,Mental wellness,0.64,Human
+matthewlynch,44,Male,Lifestyle,Sustainable living tips,0.74,Human
+myerssteven,34,Male,Technology,Gadget recommendations,0.02,Human
+lynnmarshall,70,Female,Lifestyle,Travel planning,0.81,Human
+delgadotimothy,31,Female,Business,Productivity tools,0.48,AI
+gwilson,44,Female,Health,Exercise routines,0.35,Human
+gonzalezamy,66,Other,Financial,Retirement planning,0.85,AI
+yreed,21,Other,Technology,Gadget recommendations,0.59,Human
+teresasmith,41,Female,Financial,Tax optimization,0.97,AI
+cmyers,45,Female,Lifestyle,Home organization hacks,0.75,Human
+powellbrandi,29,Other,Business,Productivity tools,0.95,Human
+chavezjoshua,70,Female,Financial,Tax optimization,0.65,Human
+wongdaisy,19,Male,Technology,Cybersecurity best practices,0.35,Human
+romantammy,38,Male,Personal,Life goal planning,0.64,AI
+holtlance,49,Other,Financial,Tax optimization,0.32,Human
+peter85,43,Male,Personal,Career coaching,0.94,Human
+tmiller,21,Male,Lifestyle,Personal development,0.98,Human
+michael07,33,Female,Technology,Gadget recommendations,0.78,AI
+joannewhite,20,Other,Health,Dietary advice,0.02,Human
+maria60,60,Male,Business,Leadership and management,0.87,Human
+ohill,36,Other,Personal,Stress management techniques,0.72,Human
+snyderlaura,69,Male,Personal,Stress management techniques,0.48,AI
+vfarmer,42,Female,Financial,Tax optimization,0.92,AI
+teresa29,34,Other,Health,Exercise routines,0.41,Human
+karenlang,27,Other,Health,Chronic illness management,0.37,Human
+bjohnson,29,Female,Financial,Investment strategies,0.33,Human
+julie40,52,Other,Lifestyle,Personal development,0.7,Human
+deborahhill,19,Male,Business,Productivity tools,0.71,Human
+natalie54,50,Female,Lifestyle,Travel planning,0.24,AI
+hendrixgabriel,70,Female,Business,Leadership and management,0.19,AI
+stephen75,27,Other,Lifestyle,Personal development,0.77,Human
+amy50,57,Male,Personal,Relationship advice,0.32,AI
+robin04,26,Male,Personal,Stress management techniques,0.0,AI
+lauragomez,37,Male,Financial,Tax optimization,0.09,Human
+ubriggs,43,Male,Technology,Software development tips,0.67,Human
+mindymiller,29,Female,Technology,Software development tips,0.73,AI
+kcampbell,57,Female,Technology,Cybersecurity best practices,0.99,AI
+ivillarreal,33,Male,Technology,Emerging tech trends,0.81,AI
+toddstewart,65,Male,Technology,Cybersecurity best practices,0.2,Human
+wsloan,66,Other,Technology,Gadget recommendations,0.07,Human
+nathan04,59,Male,Technology,Cybersecurity best practices,0.18,Human
+mhall,61,Female,Health,Chronic illness management,0.78,AI
+singhmichelle,31,Female,Lifestyle,Home organization hacks,0.81,Human
+dcantu,54,Female,Business,Marketing strategies,0.94,Human
+scottgreen,70,Other,Health,Exercise routines,0.49,Human
+heidigonzales,55,Male,Personal,Career coaching,0.78,Human
+craig48,62,Female,Lifestyle,Sustainable living tips,0.39,AI
+pooletonya,65,Male,Health,Mental wellness,0.78,AI
+qsmith,33,Female,Financial,Budgeting and saving,0.93,AI
+dawn63,38,Female,Business,Leadership and management,0.71,Human
+emily95,56,Male,Business,Marketing strategies,0.68,AI
+brookejackson,22,Female,Health,Chronic illness management,0.78,AI
+dluna,36,Female,Business,Productivity tools,0.03,AI
+wbrown,56,Female,Lifestyle,Travel planning,0.34,AI
+lsummers,60,Female,Technology,Gadget recommendations,0.74,AI
+jonathan63,23,Other,Personal,Stress management techniques,0.35,AI
+tiffany72,58,Female,Technology,Gadget recommendations,0.68,Human
+livingstonapril,57,Other,Financial,Tax optimization,0.98,AI
+ashley11,59,Male,Financial,Tax optimization,0.82,AI
+icastillo,50,Male,Financial,Tax optimization,0.82,AI
+matthew60,48,Other,Business,Productivity tools,0.43,AI
+harttim,38,Other,Lifestyle,Home organization hacks,0.83,Human
+jessica47,55,Male,Financial,Retirement planning,0.13,Human
+clarkjoshua,30,Male,Technology,Gadget recommendations,0.01,Human
+jessica33,47,Other,Financial,Budgeting and saving,0.38,Human
+dhenderson,54,Male,Financial,Budgeting and saving,0.71,AI
+cynthia21,42,Female,Financial,Tax optimization,0.73,AI
+kevin20,31,Male,Health,Exercise routines,0.22,Human
+melindamoore,20,Male,Personal,Career coaching,0.22,AI
+darlenehouse,63,Female,Technology,Software development tips,0.26,Human
+xgray,32,Other,Business,Starting a small business,0.46,AI
+randyfisher,62,Other,Business,Leadership and management,0.76,Human
+tgallegos,49,Male,Business,Leadership and management,0.77,Human
+kristen03,51,Female,Personal,Relationship advice,0.63,AI
+lross,65,Other,Lifestyle,Personal development,0.58,AI
+duanemorris,29,Female,Technology,Gadget recommendations,0.87,AI
+judylynch,60,Other,Health,Chronic illness management,0.75,AI
+whitneymoreno,29,Female,Financial,Budgeting and saving,0.05,Human
+rebeccamatthews,39,Other,Personal,Life goal planning,0.63,AI
+buckjacqueline,28,Other,Business,Productivity tools,0.97,Human
+kathydavis,27,Female,Lifestyle,Home organization hacks,0.95,Human
+williamsgarrett,60,Male,Business,Leadership and management,0.47,AI
+michelle12,51,Female,Technology,Emerging tech trends,0.98,AI
+anthonybonnie,46,Male,Health,Chronic illness management,0.43,Human
+oconnorkevin,19,Male,Business,Marketing strategies,0.3,AI
+stewartdavid,56,Other,Business,Marketing strategies,0.67,AI
+mark85,60,Female,Business,Starting a small business,0.14,AI
+andrew37,48,Female,Business,Leadership and management,0.32,AI
+vwright,41,Female,Technology,Software development tips,0.54,Human
+derrick48,50,Female,Personal,Career coaching,0.88,Human
+williamsnicole,43,Other,Technology,Cybersecurity best practices,0.4,Human
+phillip63,18,Other,Health,Mental wellness,0.78,AI
+kimberlyporter,55,Female,Financial,Retirement planning,0.5,Human
+jeffreygarcia,55,Other,Personal,Career coaching,0.02,AI
+evelyncohen,36,Male,Business,Starting a small business,0.52,AI
+tara38,62,Male,Lifestyle,Home organization hacks,0.17,AI
+jcarter,43,Male,Personal,Career coaching,0.77,Human
+kyle67,36,Male,Financial,Investment strategies,0.73,AI
+oconnellelizabeth,40,Male,Financial,Investment strategies,0.01,Human
+lindarivera,70,Other,Financial,Retirement planning,0.91,AI
+swang,38,Other,Business,Leadership and management,0.72,Human
+pinedasean,69,Female,Financial,Tax optimization,0.97,AI
+williamsmolly,51,Other,Technology,Gadget recommendations,0.89,AI
+hobbsadam,59,Other,Health,Chronic illness management,0.09,Human
+jerrythomas,26,Other,Personal,Career coaching,0.13,AI
+czavala,18,Female,Technology,Emerging tech trends,0.85,AI
+pnewton,50,Female,Lifestyle,Sustainable living tips,0.71,Human
+jesse05,18,Male,Lifestyle,Travel planning,0.93,Human
+steinwalter,70,Other,Business,Productivity tools,0.73,Human
+melissa37,22,Female,Health,Mental wellness,0.65,Human
+tbanks,19,Female,Technology,Software development tips,0.58,Human
+rbrown,41,Female,Health,Mental wellness,0.9,AI
+zdavis,18,Male,Technology,Gadget recommendations,0.09,Human
+blevinsbrittany,67,Other,Technology,Emerging tech trends,0.31,Human
+urush,30,Male,Technology,Software development tips,0.04,Human
+weissmelody,68,Female,Lifestyle,Sustainable living tips,0.82,Human
+wagnerrobert,49,Female,Financial,Tax optimization,0.31,Human
+smartin,59,Female,Lifestyle,Travel planning,0.88,Human
+travis72,70,Female,Health,Mental wellness,0.76,AI
+xramirez,47,Male,Business,Starting a small business,0.54,AI
+yesenia94,34,Male,Financial,Tax optimization,0.33,Human
+carpentercaitlin,63,Male,Health,Dietary advice,0.63,Human
+tmorgan,64,Female,Health,Exercise routines,0.91,AI
+lewisvanessa,45,Other,Technology,Cybersecurity best practices,0.99,AI
+isutton,24,Male,Technology,Software development tips,0.64,Human
+johnsmargaret,62,Male,Health,Mental wellness,0.15,Human
+kathryn58,23,Male,Health,Dietary advice,1.0,AI
+smithtimothy,20,Other,Technology,Emerging tech trends,0.12,Human
+epham,46,Other,Financial,Tax optimization,0.84,AI
+katelyn53,42,Other,Financial,Budgeting and saving,0.95,AI
+mark81,19,Male,Technology,Emerging tech trends,0.96,AI
+jamiegray,30,Female,Lifestyle,Sustainable living tips,0.74,Human
+riverajulie,38,Female,Lifestyle,Travel planning,0.88,Human
+kevingordon,69,Male,Lifestyle,Travel planning,0.44,AI
+justin36,65,Male,Financial,Investment strategies,0.12,Human
+jlee,56,Female,Health,Dietary advice,0.93,AI
+fgray,38,Female,Lifestyle,Personal development,0.78,Human
+beckerthomas,19,Female,Health,Chronic illness management,0.95,AI
+annagarner,29,Other,Lifestyle,Home organization hacks,0.52,AI
+myerskelly,47,Other,Health,Chronic illness management,0.85,AI
+pattonmitchell,25,Female,Health,Mental wellness,0.95,AI
+liuamy,58,Other,Lifestyle,Home organization hacks,0.92,Human
+morenomorgan,46,Other,Financial,Investment strategies,0.86,AI
+cooleylaurie,18,Female,Business,Marketing strategies,0.13,AI
+colleenscott,67,Female,Health,Exercise routines,0.71,AI
+dvargas,66,Female,Lifestyle,Travel planning,0.93,Human
+ogross,28,Male,Financial,Retirement planning,0.81,AI
+gadkins,26,Other,Health,Mental wellness,0.11,Human
+conwayryan,57,Male,Financial,Retirement planning,0.99,AI
+tdavis,62,Female,Personal,Relationship advice,0.92,Human
+avaldez,68,Other,Lifestyle,Sustainable living tips,0.92,Human
+carolynjohns,54,Female,Health,Exercise routines,0.36,Human
+landryrichard,48,Male,Technology,Emerging tech trends,0.51,Human
+patrickcathy,29,Male,Technology,Software development tips,0.58,Human
+aguirresarah,61,Male,Technology,Emerging tech trends,1.0,AI
+jose67,69,Female,Business,Productivity tools,0.68,AI
+codyrivera,65,Other,Financial,Investment strategies,0.06,Human
+alan46,47,Female,Technology,Cybersecurity best practices,0.83,AI
+jessewalsh,55,Male,Lifestyle,Sustainable living tips,0.86,Human
+kaisertravis,56,Male,Business,Productivity tools,0.64,AI
+erikoliver,47,Other,Financial,Investment strategies,0.9,AI
+vbecker,65,Other,Lifestyle,Personal development,0.4,AI
+fletchercarrie,63,Other,Health,Exercise routines,0.72,AI
+tylershelton,64,Male,Lifestyle,Travel planning,0.46,AI
+whitneyjohnson,25,Other,Technology,Cybersecurity best practices,0.01,Human
+tscott,33,Female,Technology,Gadget recommendations,0.81,AI
+jillian64,46,Other,Personal,Life goal planning,0.59,AI
+bgarcia,24,Female,Health,Dietary advice,0.41,Human
+roberthiggins,27,Female,Personal,Relationship advice,0.7,Human
+djenkins,20,Female,Personal,Relationship advice,0.05,AI
+sheaamy,56,Other,Personal,Relationship advice,0.84,Human
+kenneth15,20,Female,Technology,Gadget recommendations,0.44,Human
+matthewlarson,65,Female,Health,Chronic illness management,0.01,Human
+moyerlisa,45,Female,Business,Productivity tools,0.88,Human
+sara83,18,Female,Lifestyle,Personal development,0.75,Human
+tina36,23,Other,Financial,Investment strategies,0.55,Human
+holtkaren,70,Male,Technology,Software development tips,0.8,AI
+douglas21,65,Male,Health,Exercise routines,0.98,AI
+lopezvirginia,63,Other,Personal,Life goal planning,0.82,Human
+sandy14,44,Female,Health,Dietary advice,0.93,AI
+daniel71,47,Male,Lifestyle,Travel planning,0.61,AI
+vanessa79,24,Female,Personal,Life goal planning,0.48,AI
+gregory50,18,Female,Technology,Emerging tech trends,0.64,Human
+leslie30,58,Other,Personal,Stress management techniques,0.74,Human
+scottdalton,34,Other,Health,Dietary advice,0.98,AI
+jackmartinez,62,Female,Financial,Investment strategies,0.27,Human
+jessicawalker,24,Male,Business,Marketing strategies,0.82,Human
+mayala,64,Male,Business,Marketing strategies,0.35,AI
+claudiabowman,28,Male,Lifestyle,Sustainable living tips,0.85,Human
+james97,27,Female,Business,Leadership and management,0.29,AI
+davisbrandon,26,Other,Personal,Stress management techniques,0.01,AI
+joshua05,65,Other,Lifestyle,Sustainable living tips,0.18,AI
+lbanks,54,Other,Personal,Relationship advice,0.76,Human
+brian16,37,Female,Health,Chronic illness management,0.95,AI
+chamberssarah,40,Other,Financial,Retirement planning,0.86,AI
+vbarton,25,Female,Health,Mental wellness,0.83,AI
+alicia96,64,Female,Lifestyle,Travel planning,0.86,Human
+gibsonjames,61,Male,Financial,Tax optimization,0.91,AI
+jamie44,38,Male,Business,Leadership and management,0.79,Human
+larsonamber,60,Male,Technology,Software development tips,0.39,Human
+tammypotter,29,Other,Business,Starting a small business,0.53,AI
+gregoryalice,68,Male,Business,Leadership and management,0.85,Human
+torresshawn,24,Other,Lifestyle,Home organization hacks,0.95,Human
+stonedeborah,20,Other,Health,Chronic illness management,0.5,Human
+rwhite,51,Other,Personal,Relationship advice,0.14,AI
+kevin08,48,Female,Lifestyle,Travel planning,0.04,AI
+xmurphy,21,Male,Business,Productivity tools,0.63,AI
+contrerasroy,25,Other,Lifestyle,Sustainable living tips,0.54,AI
+tgallegos,20,Female,Health,Exercise routines,0.43,Human
+xlynn,33,Male,Lifestyle,Travel planning,0.66,AI
+sjohnson,32,Other,Personal,Career coaching,0.82,Human
+patrickyu,62,Male,Financial,Retirement planning,0.99,AI
+jefferyrichardson,57,Male,Health,Chronic illness management,0.75,AI
+julie80,69,Other,Lifestyle,Travel planning,0.59,AI
+wesley68,43,Female,Financial,Investment strategies,0.33,Human
+michellehernandez,66,Other,Health,Mental wellness,0.33,Human
+xpeters,32,Male,Health,Chronic illness management,0.72,AI
+bnelson,18,Female,Health,Mental wellness,0.49,Human
+hansenloretta,38,Male,Lifestyle,Personal development,0.96,Human
+ramirezchristina,36,Other,Health,Dietary advice,0.73,AI
+ddennis,58,Other,Health,Mental wellness,0.85,AI
+uolson,68,Female,Personal,Stress management techniques,0.28,AI
+sandra02,65,Other,Personal,Life goal planning,0.03,AI
+hunterjose,51,Other,Personal,Life goal planning,0.13,AI
+ijennings,18,Male,Financial,Budgeting and saving,0.95,AI
+cody38,26,Other,Lifestyle,Travel planning,0.81,Human
+brandimarshall,67,Male,Technology,Software development tips,0.81,AI
+raymondchambers,70,Female,Health,Mental wellness,0.36,Human
+benjaminoliver,62,Female,Personal,Relationship advice,0.47,AI
+phillipskaren,48,Male,Technology,Software development tips,0.72,AI
+megan64,58,Male,Business,Leadership and management,0.89,Human
+burkeamanda,43,Other,Business,Leadership and management,0.75,Human
+phyllisgonzalez,24,Female,Lifestyle,Travel planning,0.86,Human
+palmermichael,52,Female,Personal,Life goal planning,0.65,AI
+leslie87,28,Male,Lifestyle,Home organization hacks,0.95,Human
+brittanytravis,25,Other,Technology,Software development tips,0.39,Human
+xcrawford,69,Other,Personal,Life goal planning,0.23,AI
+keith29,67,Male,Lifestyle,Sustainable living tips,0.77,Human
+rschmidt,65,Other,Technology,Software development tips,0.4,Human
+nicole03,70,Female,Technology,Cybersecurity best practices,0.77,AI
+joseph20,26,Other,Technology,Cybersecurity best practices,0.36,Human
+latasha63,27,Male,Lifestyle,Home organization hacks,0.87,Human
+scott19,47,Other,Technology,Gadget recommendations,0.72,AI
+vwhite,23,Female,Technology,Cybersecurity best practices,0.92,AI
+christina87,46,Male,Personal,Life goal planning,0.75,Human
+maryboyle,37,Male,Technology,Software development tips,0.88,AI
+ustewart,49,Other,Health,Mental wellness,0.26,Human
+seth87,57,Other,Technology,Emerging tech trends,0.39,Human
+ericcarter,62,Other,Business,Starting a small business,0.05,AI
+mcintoshrobert,38,Male,Personal,Career coaching,0.9,Human
+brooksmichael,19,Other,Financial,Investment strategies,0.23,Human
+brownwilliam,46,Other,Business,Leadership and management,0.99,Human
+xsanchez,35,Other,Financial,Tax optimization,0.58,Human
+randybarrett,36,Other,Personal,Stress management techniques,0.75,Human
+broach,61,Other,Health,Exercise routines,0.77,AI
+msmith,31,Male,Health,Dietary advice,0.74,AI
+hodgesmary,22,Male,Lifestyle,Home organization hacks,0.46,AI
+susan46,64,Other,Technology,Cybersecurity best practices,0.02,Human
+hufftracy,54,Male,Financial,Budgeting and saving,0.75,AI
+bryantheather,53,Other,Technology,Gadget recommendations,0.82,AI
+cynthiawilliams,21,Other,Technology,Emerging tech trends,0.04,Human
+michelle19,58,Other,Lifestyle,Travel planning,0.17,AI
+regina55,60,Male,Technology,Cybersecurity best practices,0.09,Human
+jacqueline25,38,Other,Personal,Relationship advice,0.73,Human
+millerkylie,51,Female,Personal,Stress management techniques,0.99,Human
+lindsayhanson,19,Other,Health,Mental wellness,0.78,AI
+vrose,62,Other,Financial,Budgeting and saving,0.45,Human
+ichapman,63,Female,Personal,Relationship advice,0.28,AI
+sferguson,67,Female,Business,Starting a small business,0.21,AI
+mccanndavid,44,Other,Health,Mental wellness,0.67,Human
+davidjackson,20,Female,Lifestyle,Personal development,0.2,AI
+chloe09,39,Male,Personal,Career coaching,0.77,Human
+zdickerson,68,Other,Lifestyle,Personal development,0.4,AI
+larry20,49,Other,Business,Marketing strategies,0.87,Human
+andrew21,53,Other,Health,Exercise routines,0.08,Human
+elizabethpowell,35,Female,Health,Mental wellness,0.66,Human
+scott46,41,Female,Lifestyle,Travel planning,0.34,AI
+aboyd,21,Other,Health,Dietary advice,0.95,AI
+wardmatthew,30,Other,Health,Mental wellness,0.76,AI
+vrodriguez,59,Female,Technology,Software development tips,0.63,Human
+msantiago,67,Male,Financial,Retirement planning,0.39,Human
+jacksonpamela,42,Male,Technology,Gadget recommendations,0.19,Human
+marysmith,54,Male,Business,Leadership and management,0.02,AI
+cjohnson,32,Female,Technology,Cybersecurity best practices,0.78,AI
+jessica93,54,Male,Health,Mental wellness,0.09,Human
+erikalopez,67,Female,Health,Exercise routines,0.71,AI
+dmartin,42,Other,Technology,Emerging tech trends,0.92,AI
+pooletodd,56,Male,Financial,Investment strategies,0.71,AI
+robinsonanita,45,Female,Business,Leadership and management,0.6,AI
+liumeghan,32,Female,Business,Starting a small business,0.05,AI
+merrittbradley,57,Female,Financial,Tax optimization,0.58,Human
+mwells,61,Male,Lifestyle,Personal development,0.47,AI
+robert91,40,Male,Health,Mental wellness,0.4,Human
+jessicacox,57,Other,Lifestyle,Home organization hacks,0.01,AI
+murphycarol,29,Female,Health,Exercise routines,0.22,Human
+ian23,63,Other,Health,Dietary advice,0.73,AI
+prattcarol,21,Male,Personal,Stress management techniques,0.82,Human
+ibenson,67,Male,Technology,Gadget recommendations,0.82,AI
+xbaker,55,Male,Financial,Tax optimization,0.12,Human
+lauren78,41,Female,Technology,Software development tips,0.48,Human
+alejandro24,65,Male,Personal,Career coaching,0.77,Human
+michelecarrillo,26,Male,Lifestyle,Personal development,0.83,Human
+churchpatrick,32,Female,Health,Exercise routines,0.93,AI
+jeffreybrady,18,Female,Health,Dietary advice,0.94,AI
+jessica24,23,Female,Technology,Gadget recommendations,0.04,Human
+gordonrobert,53,Male,Financial,Budgeting and saving,0.88,AI
+denise91,37,Other,Health,Chronic illness management,0.41,Human
+grant06,67,Female,Lifestyle,Personal development,0.89,Human
+mcdanielashley,60,Female,Health,Dietary advice,0.71,AI
+kathryn42,70,Other,Personal,Life goal planning,0.94,Human
+bmoore,64,Female,Technology,Software development tips,0.76,AI
+jroth,55,Female,Technology,Emerging tech trends,0.06,Human
+basssamantha,59,Male,Lifestyle,Home organization hacks,0.87,Human
+christinaheath,55,Female,Technology,Software development tips,0.72,AI
+rguerrero,50,Other,Technology,Emerging tech trends,0.78,AI
+jonesjulia,25,Female,Business,Leadership and management,0.34,AI
+ethancalhoun,20,Female,Financial,Tax optimization,0.78,AI
+kimberly94,60,Male,Financial,Investment strategies,0.68,Human
+jerry80,31,Male,Lifestyle,Personal development,0.74,Human
+rogersangela,20,Female,Financial,Retirement planning,0.78,AI
+johnsongeorge,44,Male,Technology,Software development tips,0.22,Human
+blakedebra,24,Male,Health,Mental wellness,0.17,Human
+gregorybutler,35,Other,Health,Dietary advice,0.14,Human
+morenoronald,51,Male,Financial,Retirement planning,0.81,AI
+mitchellmark,38,Female,Technology,Cybersecurity best practices,0.64,Human
+brad48,67,Male,Health,Dietary advice,0.68,Human
+medinakevin,60,Male,Business,Marketing strategies,0.02,AI
+nmartinez,48,Other,Business,Leadership and management,0.96,Human
+padilladevon,52,Male,Lifestyle,Travel planning,0.36,AI
+dmarsh,22,Male,Personal,Career coaching,0.94,Human
+dmaldonado,44,Male,Technology,Software development tips,0.79,AI
+bblackwell,50,Female,Personal,Stress management techniques,0.1,AI
+jasonkey,60,Other,Business,Leadership and management,0.11,AI
+zmiller,20,Male,Personal,Career coaching,0.84,Human
+haysjared,33,Male,Business,Marketing strategies,0.74,Human
+mollycollins,66,Female,Personal,Career coaching,0.2,AI
+orice,37,Female,Financial,Retirement planning,0.41,Human
+travis09,48,Female,Financial,Tax optimization,0.97,AI
+paul23,55,Female,Personal,Life goal planning,0.9,Human
+bonnie63,44,Other,Personal,Stress management techniques,0.94,Human
+kimberlybrown,64,Other,Health,Dietary advice,0.76,AI
+wbray,32,Female,Personal,Career coaching,0.5,AI
+daniel79,35,Other,Business,Marketing strategies,0.71,Human
+ericsmith,55,Other,Technology,Emerging tech trends,0.47,Human
+mariabarnett,30,Male,Personal,Life goal planning,0.24,AI
+simmonsalejandro,18,Other,Lifestyle,Personal development,0.15,AI
+david76,47,Female,Lifestyle,Sustainable living tips,0.79,Human
+mcosta,64,Male,Personal,Career coaching,0.97,Human
+ballardfrancisco,40,Male,Personal,Stress management techniques,0.9,Human
+dustin23,56,Other,Lifestyle,Home organization hacks,0.5,AI
+harmonbrent,29,Male,Financial,Budgeting and saving,0.71,AI
+matthewkrause,57,Female,Lifestyle,Personal development,0.12,AI
+megan40,60,Other,Health,Mental wellness,0.99,AI
+samanthahenson,28,Male,Business,Marketing strategies,0.88,Human
+stanleymanning,65,Male,Lifestyle,Travel planning,0.57,AI
+gregory44,53,Female,Personal,Life goal planning,0.73,Human
+griffithelizabeth,34,Other,Personal,Career coaching,0.23,AI
+kenneth21,33,Male,Personal,Career coaching,0.22,AI
+stephendavis,22,Female,Business,Marketing strategies,0.0,AI
+tammy28,41,Female,Technology,Gadget recommendations,0.79,AI
+alexolson,42,Female,Business,Productivity tools,0.8,Human
+william28,24,Female,Business,Productivity tools,0.06,AI
+david83,52,Female,Business,Starting a small business,0.34,AI
+millerbenjamin,56,Male,Business,Marketing strategies,0.11,AI
+charles99,25,Female,Personal,Relationship advice,0.49,AI
+lewisjennifer,20,Male,Personal,Relationship advice,0.04,AI
+kevinramirez,56,Male,Financial,Budgeting and saving,0.42,Human
+janetbutler,55,Female,Personal,Relationship advice,0.7,Human
+kbradley,37,Other,Lifestyle,Home organization hacks,0.65,AI
+chad60,22,Other,Health,Exercise routines,0.04,Human
+yromero,62,Male,Health,Chronic illness management,0.58,Human
+youngmary,24,Female,Technology,Emerging tech trends,0.03,Human
+monica68,50,Male,Financial,Tax optimization,0.14,Human
+amyriley,20,Male,Personal,Career coaching,0.57,AI
+randy69,18,Female,Personal,Life goal planning,0.87,Human
+loribarajas,28,Female,Health,Exercise routines,0.86,AI
+michaelburns,22,Male,Business,Leadership and management,0.85,Human
+balldaryl,21,Male,Health,Mental wellness,0.86,AI
+omeyer,70,Male,Financial,Retirement planning,0.75,AI
+samantha93,19,Other,Personal,Life goal planning,0.26,AI
+vmorris,46,Female,Health,Chronic illness management,0.46,Human
+linda24,40,Female,Business,Starting a small business,0.82,Human
+gbeck,35,Other,Financial,Budgeting and saving,0.78,AI
+william76,47,Other,Financial,Tax optimization,0.35,Human
+grahammeagan,60,Male,Financial,Investment strategies,0.99,AI
+cwalker,57,Other,Health,Mental wellness,0.43,Human
+sara46,23,Female,Technology,Emerging tech trends,0.79,AI
+gabriellawilliams,18,Male,Technology,Emerging tech trends,0.9,AI
+huffjennifer,58,Other,Financial,Budgeting and saving,0.66,Human
+smithkristen,41,Male,Lifestyle,Home organization hacks,0.64,AI
+ydavis,49,Other,Business,Productivity tools,0.54,AI
+hallrhonda,28,Male,Technology,Emerging tech trends,0.09,Human
+garzaraymond,68,Female,Technology,Cybersecurity best practices,0.42,Human
+stewartjohn,68,Female,Lifestyle,Home organization hacks,0.09,AI
+alan21,40,Female,Personal,Life goal planning,0.47,AI
+muellerlindsay,32,Male,Personal,Relationship advice,0.09,AI
+reginald77,61,Male,Personal,Stress management techniques,0.74,Human
+ysmith,49,Other,Financial,Budgeting and saving,0.88,AI
+timothymurphy,21,Other,Lifestyle,Sustainable living tips,0.87,Human
+michelleclark,19,Female,Health,Exercise routines,0.63,Human
+jonesraymond,51,Other,Lifestyle,Home organization hacks,0.76,Human
+rothsergio,66,Female,Business,Starting a small business,0.75,Human
+keithbush,18,Female,Technology,Gadget recommendations,0.3,Human
+jackwilliams,28,Other,Financial,Investment strategies,0.7,AI
+pricelisa,29,Female,Lifestyle,Sustainable living tips,0.04,AI
+dawnnicholson,26,Other,Lifestyle,Personal development,0.72,Human

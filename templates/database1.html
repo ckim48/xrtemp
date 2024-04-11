@@ -1,0 +1,192 @@
+
+    {% extends "nav.html" %}
+
+    {% block database %}
+
+
+<body class="bg-indigo">
+    <div class = "container navmargin">
+        <h1 class="white merriweather-bold">Database</h1>
+        <div class="table-responsive">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col" class="merriweather-bold">Username</th>
+                        <th scope="col" class="merriweather-bold">Age</th>
+                        <th scope="col" class="merriweather-bold">Email</th>
+                        <th scope="col" class="merriweather-bold">Last Logged in</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for user in range(num_users) %}
+                    <tr>
+                        <td  class="merriweather"> {{indices[user]}}</td>
+                        <td class="merriweather"> {{usernames[user]}}</td>
+                        <td class="merriweather"> {{ages[user]}}</td>
+                        <td class="merriweather"> {{emails[user]}}</td>
+                        <td class="merriweather"> {{logindates[user]}}</td>
+                        <td>
+                            <button class="btn btn-primary edit-data" data-id="{{usernames[user]}}" data-bs-toggle="modal" data-bs-target="#editUserModal">Edit</button>
+                        </td>
+                        <td>
+                            <button class="btn btn-danger delete-data" data-id="{{usernames[user]}}">Delete</button>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="modal fade" id="editUserModal" tabindex="-1" aria-labelledby="editUserModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content border-r px-4 py-2">
+                <div class="modal-header">
+                    <h5 class="modal-title merriweather-bold">Edit Data</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="editUserForm">
+                        <div>
+                            <label for="ageInput" class="form-label merriweather">Age</label>
+                            <input type="text" class="form-control input-blk" id="ageInput">
+                        </div>
+                        <div>
+                            <label for="emailInput" class="form-label merriweather">Email</label>
+                            <input type="text" class="form-control input-blk" id="emailInput">
+                        </div>
+                        <button type="submit" class="btn btn-primary mt-4 save-edit border-r merriweather-bold py-2 px-3">Save Changes</button>
+                    </form>
+                </div>
+                </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="user-chart mt-4">
+                    <h4>Users' Activities</h4>
+                    <canvas class="mt-5" id="barChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+        var editButtons = document.querySelectorAll('.edit-data');
+        var deleteButtons = document.querySelectorAll('.delete-data');
+        var editForm = document.getElementById('editUserForm');
+
+        deleteButtons.forEach(function(button) {
+            button.addEventListener('click', function() {
+                var username = this.getAttribute('data-id');
+                var row = this.parentNode.parentNode;
+                var isConfirmed = confirm('Are you sure you want to delete ' + username + '?');
+                if(isConfirmed){
+                    fetch('/delete_user/' + username, { method: 'POST' })
+                    .then(response => response.json())
+                    .then(data => {
+                        if(data.success) {
+                            row.remove();
+                        }
+                    })
+                    .catch(error => console.error('Error:', error));
+                }
+            });
+        });
+
+        editButtons.forEach(button => {
+            button.addEventListener('click', function() {
+                const username = this.getAttribute('data-id');
+                window.rowToEdit = this.parentNode.parentNode;
+                editForm.setAttribute('data-id', username);
+            });
+        });
+
+        editForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            const username = this.getAttribute('data-id');
+            const ageInput = document.getElementById('ageInput').value;
+            const emailInput = document.getElementById('emailInput').value;
+            const formData = new FormData();
+            formData.append('age', ageInput);
+            formData.append('email', emailInput);
+
+            fetch(`/update_database/${username}`, { method: 'POST', body: formData })
+            .then(response => response.json())
+            .then(data => {
+                if(data.success) {
+                    console.log('User updated successfully.');
+                    // Update the row data
+                    window.rowToEdit.cells[2].textContent = ageInput;
+                    window.rowToEdit.cells[3].textContent = emailInput;
+                const editModalEl = document.getElementById('editUserModal');
+                const editModal = bootstrap.Modal.getInstance(editModalEl);
+                editModal.hide();
+                var backdrops = document.querySelectorAll('.modal-backdrop');
+                backdrops.forEach(function(backdrop) {
+                    backdrop.remove();
+                });
+                editForm.reset();
+}
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('An error occurred while updating the user.');
+            });
+        });
+    });
+    var ctx = document.getElementById('barChart').getContext('2d');
+    var loginCount = {{loginCount | tojson | safe}}
+    var loginPeriod = {{loginPeriod | tojson | safe}}
+    console.log(loginPeriod);
+    var myChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+        labels: loginPeriod, //python should send a list of date week before today
+        datasets: [{
+            label: '# of Users Logged in',
+            data: loginCount, //python should send a list of counts
+            backgroundColor: [
+                'rgb(72, 202, 228)',
+            ],
+            borderColor: [
+                'rgb(72, 202, 228)',
+            ],
+            borderWidth: 4
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                ticks: {
+                    beginAtZero: true,
+                    color: 'white',
+                },
+                grid: {
+                    color: 'white',
+                }
+            },
+            x:{
+                ticks:{
+                    color: 'white',
+                },
+            },
+        },
+        plugins: {
+            legend: {
+                labels: {
+                    color: 'white'
+                }
+            }
+        }
+    }
+});
+    </script>
+</body>
+    {% endblock %}

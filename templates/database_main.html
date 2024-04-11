@@ -1,0 +1,196 @@
+{% extends "nav.html" %}
+
+{% block database2 %}
+<body>
+
+    <div class="container">
+     <div class="table-responsive graphmargin">
+        <table class="table">
+            <thead>
+                <tr> <!-- <tr> meaning? -->
+                    <th scope="col">#</th>
+                    <th scope="col">Username</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">Content (Text)</th>
+                    <th scope="col">Sentiment</th>
+                    <th scope="col">Download</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>0</td>
+                    <td>Scott</td>
+                    <td>2023-03-12</td>
+                    <td>Hello, this is scott... </td>
+                    <td>20.0</td>
+                    <td>
+                        <button class="btn btn-danger" >Download</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+        <div class="row graphmargin">
+            <div class="col-md-6">
+                <div class="card chart-card px-4 py-4 mx-auto">
+                    <div class="card-body">
+                            <h2 class="card-title text-center color-white">Graph Title</h2>
+                            <p class="text-center color-white">Short description</p>
+                            <canvas class="mx-auto" id="gender_distribution"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                  <div class="card chart-card px-4 py-4 mx-auto">
+                    <div class="card-body">
+                            <h2 class="card-title text-center color-white">Graph Title</h2>
+                            <p class="text-center color-white">Short description</p>
+                            <canvas id="type_distribution"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6 mt-5">
+                <div class="card chart-card px-4 py-4 mx-auto">
+                    <div class="card-body">
+                            <h2 class="card-title text-center color-white">Graph Title</h2>
+                            <p class="text-center color-white">Short description</p>
+                            <canvas id="sentiment_dist_canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+
+            </div>
+        </div>
+    </div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+function drawChart(chartId, chartType, chartData, chartOptions={}) {
+   var ctx = document.getElementById(chartId).getContext('2d');
+   new Chart(ctx, {
+        type: chartType,
+        data: chartData,
+        options: chartOptions,
+   });
+}
+
+var genderDistribution = {{ gender_distribution | tojson }};
+var labels = Object.keys(genderDistribution);
+var data = Object.values(genderDistribution);
+// For pie chart, no scales needed, removing that part from options
+drawChart('gender_distribution', 'pie', {
+                labels: labels,
+                datasets:[{
+                    data: data
+
+                                   }]
+            },        {plugins: {
+            legend: {
+                labels: {
+                    color: 'white'
+                }
+            }
+        }}
+);
+
+var typeDistribution = {{type_distribution | tojson }};
+labels = Object.keys(typeDistribution);
+data = Object.values(typeDistribution);
+// For bar chart, configuring scales for white color
+drawChart('type_distribution', 'bar', {
+                labels: labels,
+                datasets:[{
+                    data: data,
+                }]
+            },    {
+        scales: {
+            y: {
+                ticks: {
+                    beginAtZero: true,
+                    color: 'white',
+                },
+                grid: {
+                    color: 'white',
+                }
+            },
+            x:{
+                ticks:{
+                    color: 'white',
+                },
+            },
+        },
+        plugins: {
+            legend: {
+                labels: {
+                    color: 'white'
+                }
+            }
+        }
+    }
+);
+
+var sentimentDistribution = {{sentiment_distribution | tojson }};
+console.log(sentimentDistribution);
+labels = ["Negative", "Neutral", "Positive"];
+var raw_data = sentimentDistribution;
+console.log("init print raw_data");
+console.log(raw_data);
+var data = [0, 0, 0];
+
+for (const i in raw_data){
+    console.log(i);
+    console.log(raw_data[i]);
+    if (i <= 0.3) {
+        data[0] += raw_data[i];
+    }
+    else if (0.3 < i && i <= 0.7){
+        data[1] += raw_data[i];
+    }
+    else if (0.7 < i){
+        data[2] += raw_data[i];
+    }
+}
+
+// Applying white color to axes for the sentiment distribution bar chart
+drawChart('sentiment_dist_canvas', 'bar', {
+    labels: labels,
+    datasets:[{
+        data: data,
+    }]
+},    {
+        scales: {
+            y: {
+                ticks: {
+                    beginAtZero: true,
+                    color: 'white',
+                },
+                grid: {
+                    color: 'white',
+                }
+            },
+            x:{
+                ticks:{
+                    color: 'white',
+                },
+            },
+        },
+        plugins: {
+            legend: {
+                labels: {
+                    color: 'white'
+                }
+            }
+        }
+    }
+    );
+</script>
+
+
+</body>
+{% endblock %}
